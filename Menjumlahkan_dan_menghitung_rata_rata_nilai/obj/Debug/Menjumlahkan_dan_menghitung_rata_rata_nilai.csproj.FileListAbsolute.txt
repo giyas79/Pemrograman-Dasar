@@ -1,0 +1,7 @@
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menjumlahkan_dan_menghitung_rata_rata_nilai\bin\Debug\Menjumlahkan_dan_menghitung_rata_rata_nilai.exe.config
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menjumlahkan_dan_menghitung_rata_rata_nilai\bin\Debug\Menjumlahkan_dan_menghitung_rata_rata_nilai.exe
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menjumlahkan_dan_menghitung_rata_rata_nilai\bin\Debug\Menjumlahkan_dan_menghitung_rata_rata_nilai.pdb
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menjumlahkan_dan_menghitung_rata_rata_nilai\obj\Debug\Menjumlahkan_dan_menghitung_rata_rata_nilai.csproj.AssemblyReference.cache
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menjumlahkan_dan_menghitung_rata_rata_nilai\obj\Debug\Menjumlahkan_dan_menghitung_rata_rata_nilai.csproj.CoreCompileInputs.cache
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menjumlahkan_dan_menghitung_rata_rata_nilai\obj\Debug\Menjumlahkan_dan_menghitung_rata_rata_nilai.exe
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menjumlahkan_dan_menghitung_rata_rata_nilai\obj\Debug\Menjumlahkan_dan_menghitung_rata_rata_nilai.pdb
