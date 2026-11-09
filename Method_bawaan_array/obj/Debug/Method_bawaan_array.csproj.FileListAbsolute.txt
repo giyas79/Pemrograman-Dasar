@@ -1,0 +1,7 @@
+D:\Giyas Septo Syahputra - X PPLG 2\Method_bawaan_array\bin\Debug\Method_bawaan_array.exe.config
+D:\Giyas Septo Syahputra - X PPLG 2\Method_bawaan_array\bin\Debug\Method_bawaan_array.exe
+D:\Giyas Septo Syahputra - X PPLG 2\Method_bawaan_array\bin\Debug\Method_bawaan_array.pdb
+D:\Giyas Septo Syahputra - X PPLG 2\Method_bawaan_array\obj\Debug\Method_bawaan_array.csproj.AssemblyReference.cache
+D:\Giyas Septo Syahputra - X PPLG 2\Method_bawaan_array\obj\Debug\Method_bawaan_array.csproj.CoreCompileInputs.cache
+D:\Giyas Septo Syahputra - X PPLG 2\Method_bawaan_array\obj\Debug\Method_bawaan_array.exe
+D:\Giyas Septo Syahputra - X PPLG 2\Method_bawaan_array\obj\Debug\Method_bawaan_array.pdb
