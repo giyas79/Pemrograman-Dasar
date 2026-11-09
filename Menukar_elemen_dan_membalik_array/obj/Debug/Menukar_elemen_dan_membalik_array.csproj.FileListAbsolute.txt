@@ -1,0 +1,7 @@
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menukar_elemen_dan_membalik_array\bin\Debug\Menukar_elemen_dan_membalik_array.exe.config
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menukar_elemen_dan_membalik_array\bin\Debug\Menukar_elemen_dan_membalik_array.exe
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menukar_elemen_dan_membalik_array\bin\Debug\Menukar_elemen_dan_membalik_array.pdb
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menukar_elemen_dan_membalik_array\obj\Debug\Menukar_elemen_dan_membalik_array.csproj.AssemblyReference.cache
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menukar_elemen_dan_membalik_array\obj\Debug\Menukar_elemen_dan_membalik_array.csproj.CoreCompileInputs.cache
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menukar_elemen_dan_membalik_array\obj\Debug\Menukar_elemen_dan_membalik_array.exe
+D:\GIYAS SEPTO SYAHPUTRA - X PPLG 2\Menukar_elemen_dan_membalik_array\obj\Debug\Menukar_elemen_dan_membalik_array.pdb
